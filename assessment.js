@@ -32,12 +32,12 @@ var myOtherDog = {
 
 
 // #6 Loop through this object and change all properties that start with the letter m to have a value of 'm'
-var cow = {
-	eats: 'grass',
-  attitude: 'mosey',
-	says: 'mooooo',
-	cares: false,
-  produces: 'milk',
+var briefing = {
+	secretLocation: 'antarctica',
+  secretWeapon: 'hands',
+	nonsecretCodename: 'purple hippopotamus',
+	secretInfo: "it's gon' be cold",
+  date: 'future',
 };
 
 

@@ -285,6 +285,7 @@ describe('javascriptBasicAssesment', function () {
 				calledMsg = ret;
 			}
 
+      callerBack(callback, "Hey!");
 			expect(calledMsg).toBe('Hey! back');
 		});
 	});
