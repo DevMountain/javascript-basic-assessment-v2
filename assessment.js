@@ -31,7 +31,7 @@ var myOtherDog = {
 
 
 
-// #6 Loop through this object and change all properties that start with the letter m to have a value of 'm'
+// #6 Loop through this object and change every property that begins with the word 'secret' to have a value of 'redacted'
 var briefing = {
 	secretLocation: 'antarctica',
   secretWeapon: 'hands',
