@@ -192,7 +192,7 @@ describe('javascriptBasicAssesment', function () {
 		});
 		it('should make clockIn object', function () {
 			expect(clockIn("Elon Musk", "R&D").name).toEqual("Elon Musk");
-			expect(clockIn("Elon Musk", "R&D").department).toEqual("CEO");
+			expect(clockIn("Elon Musk", "R&D").department).toEqual("R&D");
 			expect(clockIn("Elon Musk", "R&D").timestamp).toEqual(new Date());
 		});
 	});
