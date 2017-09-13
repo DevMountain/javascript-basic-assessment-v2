@@ -19,7 +19,7 @@ var myDog = {
 	name: 'Spot'
 };
 
-// Change my don't type to hairless using square bracket notation
+// Change myOtherDog's type to hairless using square bracket notation
 var myOtherDog = {
 	type: 'poodle',
 	name: 'Fluffy'
